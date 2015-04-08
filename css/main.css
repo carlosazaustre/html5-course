@@ -5,6 +5,10 @@
   border: 0;
 }
 
+.menu-button {
+   color: #eaeaea;
+}
+
 .navbar-brand {
   margin: 0;
   padding: 0;
